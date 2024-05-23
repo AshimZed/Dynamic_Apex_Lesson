@@ -7,3 +7,4 @@ This repository contains custom code written for a technical presentation on Dyn
 ## Resource
 Check out this resource to learn more about Dynamic Apex:
 - [Dynamic Apex Help](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dynamic.htm)
+- [Schema Namespace](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_namespace_Schema.htm)
